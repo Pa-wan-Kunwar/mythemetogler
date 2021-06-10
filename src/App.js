@@ -1,4 +1,4 @@
-import React,{useState,useContext} from "react";
+import React,{useState} from "react";
 import myContext from "./context/context";
 
 import Herosection from "./components/heroSection"
